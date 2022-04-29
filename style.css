@@ -1,9 +1,9 @@
 h1   {
-    background-color: pink; 
-    color: black;
+    background-color:greenyellow; 
+    color: rgb(255, 0, 0);
     }
     p    {
-    color: green;
+    color: rgb(173, 103, 182);
     font-size: 25px;
     font-style: italic;
     }
